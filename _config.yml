@@ -1,1 +1,32 @@
-theme: jekyll-theme-cayman
+# Dependencies
+# markdown:         redcarpet
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Chen Shangyu
+tagline:          
+description:      PhD student at Nanyang Technological University, Singapore
+url:              
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/csyhhu
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+#   - redcarpet
