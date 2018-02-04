@@ -26,6 +26,8 @@ version:          2.1.0
 github:
   repo:           https://github.com/csyhhu
 
+future: true
+
 gems:
   - jekyll-paginate
   - jekyll-gist
