@@ -12,7 +12,7 @@ title:            Chen Shangyu
 tagline:          
 description:      PhD student at Nanyang Technological University, Singapore
 url:              
-baseurl:          ''
+baseurl:          '/'
 
 author:
   name:           'Mark Otto'
