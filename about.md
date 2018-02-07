@@ -13,8 +13,10 @@ Under supervision of [Prof. Sinno Jialin Pan](http://www.ntu.edu.sg/home/sinnopa
 
 Email: schen025 [at] e.ntu.edu.sg
 
+CV: [CV](/data/CV.pdf)
+
 ### Research Interests ###
-Model compression (pruning, quantization), categorical data analysis
+Model compression (prunning, quantization), categorical data analysis
 
 ### Education Experience ###
 **2012-2016**   BS 
