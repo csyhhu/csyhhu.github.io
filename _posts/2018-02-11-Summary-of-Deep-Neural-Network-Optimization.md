@@ -3,6 +3,9 @@ layout: post
 title: Summary of Deep Neural Network Optimization on Resource-Constraint Devices
 ---
 
+## Low-Rank Decomposition
+* Sparse Convolutional Neural Network
+ 
 ## Prune
 *  Learning both Weights and Connections for Efficient Neural Networks
 > Classical
@@ -10,10 +13,14 @@ title: Summary of Deep Neural Network Optimization on Resource-Constraint Device
 * Dynamic Network Surgery for Efficient DNNs
 > Classical
 
+* Pruning Convolutional Neural Networks for Resource Efficient Inference
+
 
 ## Structure Prunning
 * Pruning Filters for Efficient ConvNets
 > 看filter绝对值去
+
+* Data-free Parameter Pruning for Deep Neural Networks
 
 ## Quantization (Binarization, Ternarization)
 * Towards the Limit of Network Quantization
@@ -47,8 +54,17 @@ title: Summary of Deep Neural Network Optimization on Resource-Constraint Device
 * SBNet: Sparse Blocks Networks for Fast Inference
 > 思想很简单，把非稀疏的input聚在一起处理。因为Dense Convolution已经被优化得很好，但工程性极强。
 
+## Optimize Convolution 
+* Fast Algorithms for Convolutional Neural Networks
+
+* Enabling Sparse Winograd Convolution by Native Prunning
+
+## Image Compression (Quantization)
+* Learning Convolutional Networks for Content-weighted Image Compression.
+
 ##  Miscellaneous
 * Compressing Neural Network with the Hashing Trick
 
 * Interleaved Group Convolutions for Deep Neural Networks
 >  按channel切开input feature做卷积（早期AlexNet分组卷积思想），再把来自不同的partition的feature maps组一起做第二次卷积
+
