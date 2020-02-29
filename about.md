@@ -29,6 +29,12 @@ School of Data and Computer Science, Sun Yat-Sen University, Guangzhou, China
 School of Computer Science and Engineering, Nanyang Technological University, Singapore
 
 
+### Internship Experience ###
+**June-Sept, 2020** Research Intern
+
+Computer Vision Group, Microsoft, Redmond, Washington, U.S. 	
+
+
 ### Publication ###
 * **Shangyu Chen**, Wenya Wang and Sinno Jialin Pan. [MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization](). To be appear in 33rd Conference on Neural Information Processing Systems 2019 (NeurIPS-19). Vancouver, Canada. Dec. 8-14, 2019. (Poster) [[code]](https://github.com/csyhhu/MetaQuant) [[paper]](/data/MetaQuant.pdf) 
 * **Shangyu Chen**, Wenya Wang and Sinno Jialin Pan. [Cooperative Pruning in Cross-Domain Deep Neural Network Compression](). Published in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-19). Macao, China. Aug. 10 - 16, 2019. (Oral) [[code]](https://github.com/csyhhu/Co-Prune) [[paper]](/data/Co-Prune.pdf) 
