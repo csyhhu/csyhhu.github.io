@@ -5,7 +5,7 @@ title: About
 
 ## Mr. Chen Shangyu ##
 
-Fifth year Ph.D student
+Fifths year Ph.D student
 <br>
 [School of Computer Science and Engineering, Nanyang Technological University](http://scse.ntu.edu.sg/Pages/Home.aspx)
 <br>
@@ -32,7 +32,7 @@ School of Computer Science and Engineering, Nanyang Technological University, Si
 ### Internship Experience ###
 **June-Nov, 2020** Research Intern
 
-ByteDance AI Lab, NLP Group in Singapore. Honor to work with [[Dr. Li Hang]](https://hangli-hl.com/index.html)
+ByteDance AI Lab, NLP Group in Singapore. Honor to work with [Dr. Li Hang](https://hangli-hl.com/index.html)
 
 
 ### Publication ###
