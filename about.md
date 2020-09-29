@@ -5,7 +5,7 @@ title: About
 
 ## Mr. Chen Shangyu ##
 
-Fourth year Ph.D student
+Fifth year Ph.D student
 <br>
 [School of Computer Science and Engineering, Nanyang Technological University](http://scse.ntu.edu.sg/Pages/Home.aspx)
 <br>
@@ -30,16 +30,27 @@ School of Computer Science and Engineering, Nanyang Technological University, Si
 
 
 ### Internship Experience ###
-**June-Sept, 2020** Research Intern
+**June-Nov, 2020** Research Intern
 
-Computer Vision Group, Microsoft, Redmond, Washington, U.S. 	
+ByteDance AI Lab, NLP Group in Singapore. Honor to work with [[Dr. Li Hang]](https://hangli-hl.com/index.html)
 
 
 ### Publication ###
-* **Shangyu Chen**, Wenya Wang and Sinno Jialin Pan. [MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization](). To be appear in 33rd Conference on Neural Information Processing Systems 2019 (NeurIPS-19). Vancouver, Canada. Dec. 8-14, 2019. (Poster) [[code]](https://github.com/csyhhu/MetaQuant) [[paper]](/data/MetaQuant.pdf) 
+* Jianda Chen, **Shangyu Chen** and Sinno Jialin Pan. [Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning](). To be appear in 34rd Conference on Neural Information Processing Systems 2020 (NeurIPS-20). Virtual. Dec. 6-12, 2020. (Poster)
+
+* **Shangyu Chen**, Wenya Wang and Sinno Jialin Pan. [MetaQuant: Learning to Quantize by Learning to Penetrate Non-differentiable Quantization](). Published in Proceedings of the 33rd Conference on Neural Information Processing Systems 2019 (NeurIPS-19). Vancouver, Canada. Dec. 8-14, 2019. (Poster) [[code]](https://github.com/csyhhu/MetaQuant) [[paper]](/data/MetaQuant.pdf) 
 * **Shangyu Chen**, Wenya Wang and Sinno Jialin Pan. [Cooperative Pruning in Cross-Domain Deep Neural Network Compression](). Published in Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI-19). Macao, China. Aug. 10 - 16, 2019. (Oral) [[code]](https://github.com/csyhhu/Co-Prune) [[paper]](/data/Co-Prune.pdf) 
 * **Shangyu Chen**, Wenya Wang and Sinno Jialin Pan. [Deep Neural Network Quantization via Layer-Wise Optimization using Limited Training Data](). Published in Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19). Hawaii, USA. Jan. 27 - Feb. 1, 2019. (Oral) [[code]](https://github.com/csyhhu/L-DNQ)[[paper]](/data/L-DNQ.pdf)
 * Xin Dong, **Shangyu Chen** and Sinno Jialin Pan. [Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](https://arxiv.org/abs/1705.07565) To appear in Annual Conference on Neural Information Processing Systems 2017 (NIPS-17). Long Beach, USA. Dec. 4-9, 2017. (Poster) [[code]](https://github.com/csyhhu/L-OBS) [[paper]](https://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
+
+### Professional Services ###
+#### Conference Reviewers ####
+* The 36th International Conference on Machine Learning (ICML 2019)
+* The 33th Conference on Neural Information Processing Systems (NeurIPS 2019) (Top 50% best reviewers)
+* The 34th AAAI Conference on Artificial Intelligence  (AAAI 2020)
+* The 34th Conference on Neural Information Processing Systems (NeurIPS 2020)
+* The 35th AAAI Conference on Artificial Intelligence  (AAAI 2021)
+* The 9th International Conference on Learning Representations (ICLR 2021)
 
 ### Research Projects ###
 * [Awesome Deep Neural Network Compression](https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression)
@@ -50,12 +61,6 @@ Computer Vision Group, Microsoft, Redmond, Washington, U.S.
 * CX/CZ 1007 Data Strcuture
 * CE/CZ 4041 Data Mining
 * CZ 3005 Artificial Intelligence
-
-### Professional Services ###
-#### Conference Reviewers ####
-* The 36th International Conference on Machine Learning (ICML 2019)
-* The 33th Conference on Neural Information Processing Systems (NeurIPS 2019) (Top 50% best reviewers)
-* The 34th AAAI Conference on Artificial Intelligence  (AAAI 2020)
 
 ### Applied Project ###
 
